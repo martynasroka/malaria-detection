@@ -1,1 +1,1 @@
-# malaria-detection
+Capstone project in Deep Learning for the MIT-PE Applied Data Science Course. Focused on application of different neural network architectures to automatically classify uninfected and malaria infected cells from microscopic images of blood smears.
